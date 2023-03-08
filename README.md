@@ -16,3 +16,7 @@
 ![Privett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Privett&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Privett&layout=compact&hide_border=true&hide_title=true)
+
+![Privett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Privett&show_icons=true&hide_border=true&theme=dark&icon_color=white&text_color=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Privett&layout=compact&hide_border=true&hide_title=true&theme=light&text_color=black)
