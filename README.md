@@ -16,7 +16,3 @@
 ![Privett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Privett&show_icons=true&hide_border=true&theme=${{is_dark_mode}}?dark=radical&light=radical&icon_color=white&text_color=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Privett&layout=compact&hide_border=true&hide_title=true&theme=${{is_dark_mode}}?dark=radical&light=radical&text_color=white&icon_color=white)
-
-![Privett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Privett&show_icons=true&hide_border=true&theme={{#if%20github_dark_mode}}light{{else}}dark{{/if}}&icon_color={{#if%20github_dark_mode}}white{{else}}black{{/if}}&text_color={{#if%20github_dark_mode}}white{{else}}black{{/if}})
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Privett&layout=compact&hide_border=true&hide_title=true&theme={{#if%20github_dark_mode}}light{{else}}dark{{/if}}&text_color={{#if%20github_dark_mode}}white{{else}}black{{/if}})
