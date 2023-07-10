@@ -7,10 +7,6 @@
 
 ### Skills
 - Python
-- Java
-- Git
-- Linux
-- HTML/CSS
 
 ### Statistics
 ![Privett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Privett&show_icons=true&hide_border=true)
